@@ -22,7 +22,7 @@
 ## 3. **Checking the bot** 
 Go to the terminal and run ```npm start run```
 
-### Your bot is all set up and good to go, you can add more slash commands by adding new js files in the /commands directory, and / or add native commands by adding a new command handler that uses the messageCreate event! (which is now getting slowely deprecated so I would advice you to stick to slash commands!)
+### Your bot is all set up and good to go, you can add more slash commands by adding new js files in the /commands directory, and / or add native commands by adding a new command handler that uses the messageCreate event! (which is now getting slowly deprecated so I would advice you to stick to slash commands!)
 
 ### Have fun tinkering 
 ## Contact me:
